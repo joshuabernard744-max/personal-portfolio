@@ -31,7 +31,7 @@ The purpose of this project is to demonstrate the use of Git and GitHub during t
 The portfolio can be viewed through GitHub Pages:
 
 **Deployment Link:**  
-[View Portfolio](YOUR-GITHUB-PAGES-URL)
+[View Portfolio](https://github.com/joshuabernard744-max/personal-portfolio.git)
 
 ## Repository
 
