@@ -109,3 +109,32 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+#contact {
+    max-width: 1100px;
+    margin: auto;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+#contact h2 {
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+}
+
+#contact p {
+    margin-bottom: 25px;
+}
+
+.contact-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.contact-links a {
+    text-decoration: none;
+    background-color: #222;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+}
